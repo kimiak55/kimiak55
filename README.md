@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kimiak55
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and django
 - 💞️ I’m looking to collaborate on python project so i can learn and be usefull.
 - 📫 You can reach me by my email: kimiak555@yahoo.com
 
